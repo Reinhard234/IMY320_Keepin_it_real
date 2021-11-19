@@ -2,7 +2,7 @@
 IMY 320 project
 
 Conclusion:
-https://docs.google.com/document/d/1eZrAl_zuZ5yofJJbNu8cmR7tnAFnVI5AmaEeI8tBIJI/edit?usp=sharing
+https://docs.google.com/document/d/1jCs0MhK1zyMy-Vt1OlWNsjcrQTX0VlEOuQeZKCno_SI/edit?usp=sharing
 
 Website:
 https://reinhard234.github.io/
